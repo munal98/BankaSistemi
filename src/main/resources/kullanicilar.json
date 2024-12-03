@@ -1,0 +1,18 @@
+[
+  {
+    "tc": "12345678901",
+    "ad": "Ahmet",
+    "soyad": "Yılmaz",
+    "sifre": "789456",
+    "bakiye": 10000,
+    "krediBorcu": 5000
+  },
+  {
+    "tc": "98765432109",
+    "ad": "Ayşe",
+    "soyad": "Kaya",
+    "sifre": "34567",
+    "bakiye": 7500,
+    "krediBorcu": 2000
+  }
+]
